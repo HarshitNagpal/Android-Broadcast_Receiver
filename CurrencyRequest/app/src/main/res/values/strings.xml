@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">CurrencyRequest</string>
+    <string name="currency_prompt">Choose a currency</string>
+
+    <string-array name="currency_arrays">
+        <item> Select Currency Type</item>
+        <item>Indian Rupees</item>
+        <item>Australian Dollar</item>
+        <item>Canadian Dollar</item>
+        <item>Euro</item>
+        <item>New Zealand Dollar</item>
+        <item>Pound</item>
+    </string-array>
+
+</resources>
